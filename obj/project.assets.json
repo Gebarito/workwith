@@ -2469,9 +2469,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gebarito/workspace/WebApp1/WebApp1.csproj",
-      "projectName": "WebApp1",
-      "projectPath": "/home/gebarito/workspace/WebApp1/WebApp1.csproj",
+      "projectUniqueName": "/home/gebarito/workspace/WebApp1/workwith.csproj",
+      "projectName": "workwith",
+      "projectPath": "/home/gebarito/workspace/WebApp1/workwith.csproj",
       "packagesPath": "/home/gebarito/.nuget/packages/",
       "outputPath": "/home/gebarito/workspace/WebApp1/obj/",
       "projectStyle": "PackageReference",

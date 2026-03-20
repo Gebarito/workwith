@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WI3DeW2Ael0=",
+  "dgSpecHash": "yZvtluT0YUM=",
   "success": true,
-  "projectFilePath": "/home/gebarito/workspace/WebApp1/WebApp1.csproj",
+  "projectFilePath": "/home/gebarito/workspace/WebApp1/workwith.csproj",
   "expectedPackageFiles": [
     "/home/gebarito/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/gebarito/.nuget/packages/microsoft.aspnetcore.authentication.google/10.0.5/microsoft.aspnetcore.authentication.google.10.0.5.nupkg.sha512",
