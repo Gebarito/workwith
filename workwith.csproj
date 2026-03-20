@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-WebApp1-d473850f-1f2e-4354-95fe-350cdee5e941</UserSecretsId>
+    <RootNamespace>Workwith</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
