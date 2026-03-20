@@ -2469,11 +2469,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gebarito/workspace/WebApp1/workwith.csproj",
+      "projectUniqueName": "/home/gebarito/workspace/workwith/workwith.csproj",
       "projectName": "workwith",
-      "projectPath": "/home/gebarito/workspace/WebApp1/workwith.csproj",
+      "projectPath": "/home/gebarito/workspace/workwith/workwith.csproj",
       "packagesPath": "/home/gebarito/.nuget/packages/",
-      "outputPath": "/home/gebarito/workspace/WebApp1/obj/",
+      "outputPath": "/home/gebarito/workspace/workwith/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/gebarito/.nuget/NuGet/NuGet.Config"
