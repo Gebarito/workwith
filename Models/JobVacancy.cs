@@ -1,11 +1,10 @@
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
-using System.Numerics;
-using Newtonsoft.Json;
+
 
 namespace WebApp1.Models
 {
-    public class Company
+    public class JobVacancy
     {
         public long Id {get; set;}
 
